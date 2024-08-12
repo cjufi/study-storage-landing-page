@@ -1,2 +1,2 @@
 # study-storage-landing-page
-The product landing page project
+The product landing page project.
